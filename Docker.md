@@ -85,7 +85,9 @@ docker network create network name --example(mongo-network)
 ```
 docker network inspect mongo-network (container composed in that network)
 ```
-
+# Remove network
+```
+docker network rm my-network
 ---
 
 ## 🐘 4. Running MySQL (Example)
