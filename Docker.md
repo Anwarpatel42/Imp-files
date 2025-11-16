@@ -14,9 +14,9 @@ This documentation explains how to install dependencies, manage Docker container
 Before using Docker, ensure you have essential packages installed:
 
 ```bash
-sudo apt update
-sudo apt install nano -y
-sudo apt install gcc -y
+sudo apt update or apt-get
+sudo apt install nano -y or apt-get
+sudo apt install gcc -y or apt-get
 ````
 
 ---
